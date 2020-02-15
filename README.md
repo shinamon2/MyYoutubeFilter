@@ -1,0 +1,2 @@
+# MyYoutubeFilter
+youtubeのフィルター機能が不十分と感じたため、自分で作成することにしました。
